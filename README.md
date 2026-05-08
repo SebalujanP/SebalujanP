@@ -18,7 +18,7 @@
 * **Lenguajes:** Python (Análisis de Datos, Machine Learning, Deep Learning, Redes Neuronales,LLMS), MySQL
 * **Bases de datos:** MySQL, PostgreSQL
 * **Herramientas:** Git, GitHub, VS Code
-* **Librerías y Frameworks:** Pandas, NumPy, Scikit-learn,TensorFlow ,FastAPI
+* **Librerías y Frameworks:** Pandas, NumPy, Scikit-learn,TensorFlow ,Matplotlib,Seaborn,FastAPI
 * **Otros:** APIs REST, lógica de programación, estructuras de datos y manipulación de datos
 
 ---
