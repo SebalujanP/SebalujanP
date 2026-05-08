@@ -3,7 +3,9 @@
 🎓 Lic. en Ciencia de Datos e Inteligencia Artificial
 💻 Técnico en Programación
 
-📊 Apasionado por el análisis de grandes volúmenes de datos, el desarrollo y entrenamiento de modelos de Inteligencia Artificial mediante Machine Learning Y Otros Modelos de IA
+📊 Apasionado por el análisis de grandes volúmenes de datos y el desarrollo de soluciones de Inteligencia Artificial mediante Machine Learning, Deep Learning y redes neuronales.
+
+🤖 Interesado en NLP, modelos generativos, visión por computadora y análisis predictivo.
 
 🚀 Interesado en Backend, Ciencia de Datos y tecnologías aplicadas a IA.
 
