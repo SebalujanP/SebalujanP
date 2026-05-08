@@ -1,9 +1,13 @@
 # 👋 ¡Hola! Soy Sebastian
 
-🎓  Lic. Ciencia de datos E IA
-💻  Téc. en Programación  
-📚 Apasionado por el Analisis de Grandes Volumenes de Datos,La Creacion y Entrenamiento de Distintos Modelos de IA Con Machine Learning
-🌱 Aprendiendo constantemente sobre distintos Modelos de IA
+🎓 Lic. en Ciencia de Datos e Inteligencia Artificial
+💻 Técnico en Programación
+
+📊 Apasionado por el análisis de grandes volúmenes de datos, el desarrollo y entrenamiento de modelos de Inteligencia Artificial mediante Machine Learning Y Otros Modelos de IA
+
+🚀 Interesado en Backend, Ciencia de Datos y tecnologías aplicadas a IA.
+
+🌱 Aprendiendo constantemente nuevas herramientas, modelos y tecnologías.
 
 ---
 
