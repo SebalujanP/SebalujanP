@@ -1,18 +1,19 @@
 # 👋 ¡Hola! Soy Sebastian
 
-🎓 Estudiante de Ciencia de datos
-💻 Próximo a recibirme de Técnico en Programación  
-📚 Apasionado por el desarrollo backend y las bases de datos  
-🌱 Aprendiendo constantemente sobre ciencia de datos e inteligencia artificial
+🎓  Lic. Ciencia de datos E IA
+💻  Téc. en Programación  
+📚 Apasionado por el Analisis de Grandes Volumenes de Datos,La Creacion y Entrenamiento de Distintos Modelos de IA Con Machine Learning
+🌱 Aprendiendo constantemente sobre distintos Modelos de IA
 
 ---
 
 ### 🛠️ Tecnologías que manejo
 
-- **Lenguajes:** Python, SQL, JavaScript  
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB  
-- **Herramientas:** Git, GitHub, VS Code  
-- **Otros:** APIs REST, lógica de programación, estructuras de datos
+* **Lenguajes:** Python (Análisis de Datos, Machine Learning, Deep Learning, Redes Neuronales,LLMS), MySQL
+* **Bases de datos:** MySQL, PostgreSQL
+* **Herramientas:** Git, GitHub, VS Code
+* **Librerías y Frameworks:** Pandas, NumPy, Scikit-learn,TensorFlow ,FastAPI
+* **Otros:** APIs REST, lógica de programación, estructuras de datos y manipulación de datos
 
 ---
 
@@ -29,4 +30,4 @@
 
 ---
 
-> Siempre con ganas de aprender, colaborar y crecer en este mundo de la programación 💪
+> Siempre con ganas de aprender, colaborar y crecer en este mundo de los datos 💪
