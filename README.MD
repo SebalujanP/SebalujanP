@@ -14,7 +14,7 @@ Interfaz interactiva en Gradio donde el usuario dibuja un número y obtiene la p
 
 ---
 
-### 📊 Análisis de Ventas de Tienda Online *(en desarrollo)*
+### 📊 Análisis de Ventas de Tienda Online 
 Análisis exploratorio completo sobre dataset real de ventas con pandas y plotly.
 Identificación de categorías, regiones y productos más rentables. Recomendaciones orientadas a negocio.
 `Python` `pandas` `NumPy` `matplotlib` `plotly`
