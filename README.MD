@@ -7,6 +7,11 @@ Estudiante de Licenciatura en Ciencia de Datos e IA — construyo proyectos real
 
 ## 🚀 Proyectos
 
+###### 🛒 [Simulador de Ventas con ML](https://github.com/SebalujanP/sales-forecast-simulator)
+Simulador interactivo de ventas para e-commerce deportivo. Modelo `HistGradientBoostingRegressor` (MAE 1.55, R² 0.771) que predice el impacto de descuentos y escenarios de competencia, con detección de picos de demanda en Black Friday/Cyber Monday. App desplegada en Streamlit con dashboard interactivo. `Python` `scikit-learn` `Streamlit` `seaborn`
+🔗 [Ver app en vivo](https://sales-forecast-simulator-bvnlfwufxfs6mrramptxaw.streamlit.app/)
+
+
 ### 🧠 [Clasificador de Dígitos Manuscritos con CNN](https://github.com/SebalujanP/mnist-cnn-classifier)
 Red neuronal convolucional entrenada sobre MNIST con **99% de accuracy**.
 Interfaz interactiva en Gradio donde el usuario dibuja un número y obtiene la predicción en tiempo real.
