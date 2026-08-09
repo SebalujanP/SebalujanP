@@ -7,6 +7,12 @@ Estudiante de Licenciatura en Ciencia de Datos e IA — construyo proyectos real
 
 ## 🚀 Proyectos
 
+### 📈 [Análisis de Datos E-commerce (Olist) — SQL & Power BI](https://github.com/SebalujanP/olist-sql-analysis)
+
+Análisis SQL completo sobre dataset real de e-commerce (**+100.000 pedidos**, 9 tablas relacionadas) en PostgreSQL: **segmentación de clientes RFM** con CTEs y subconsultas, rentabilidad por categoría/región, y correlación entre tiempo de entrega y satisfacción del cliente. Dashboards interactivos en Power BI conectados en vivo a la base de datos. `SQL` `PostgreSQL` `Power BI` `DAX`
+
+---
+
 ###### 🛒 [Simulador de Ventas con ML](https://github.com/SebalujanP/sales-forecast-simulator)
 Simulador interactivo de ventas para e-commerce deportivo. Modelo `HistGradientBoostingRegressor` (MAE 1.55, R² 0.771) que predice el impacto de descuentos y escenarios de competencia, con detección de picos de demanda en Black Friday/Cyber Monday. App desplegada en Streamlit con dashboard interactivo. `Python` `scikit-learn` `Streamlit` `seaborn`
 🔗 [Ver app en vivo](https://sales-forecast-simulator-bvnlfwufxfs6mrramptxaw.streamlit.app/)
