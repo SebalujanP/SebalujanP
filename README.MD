@@ -54,4 +54,4 @@ Pipeline completo de procesamiento de lenguaje natural: tokenización, stopwords
 
 ## 📈 Estadísticas
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebalujanP&theme=radial&hide_border=true)
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=SebalujanP&show_icons=true&theme=radial&hide_border=true&cache_seconds=86400)
