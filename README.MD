@@ -53,4 +53,4 @@ Pipeline completo de procesamiento de lenguaje natural: tokenización, stopwords
 ---
 ### 🟩 Mi Actividad en GitHub
 
-![Contribuciones en GitHub](https://ghchart.rshah.org/SebalujanP)
+![Mi actividad en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=SebalujanP&theme=react-dark)
