@@ -26,14 +26,14 @@ Interfaz interactiva en Gradio donde el usuario dibuja un número y obtiene la p
 
 ---
 
-### 📊 Análisis de Ventas de Tienda Online 
+### 📊 [Análisis de Ventas de Tienda Online](https://github.com/SebalujanP/sales-data-analysis) 
 Análisis exploratorio completo sobre dataset real de ventas con pandas y plotly.
 Identificación de categorías, regiones y productos más rentables. Recomendaciones orientadas a negocio.
 `Python` `pandas` `NumPy` `matplotlib` `plotly`
 
 ---
 
-### 🎬 Pipeline NLP — Análisis de Reseñas de Películas
+### 🎬 [Pipeline NLP — Análisis de Reseñas de Películas](https://github.com/SebalujanP/sentiment-analysis-nlp)
 Pipeline completo de procesamiento de lenguaje natural: tokenización, stopwords, lematización, Bag of Words y TF-IDF.
 `Python` `NLTK` `scikit-learn` `CountVectorizer`
 
