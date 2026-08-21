@@ -51,11 +51,6 @@ Pipeline completo de procesamiento de lenguaje natural: tokenización, stopwords
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
-## 📈 Estadísticas
-
-![Stats de GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=SebalujanP&show_icons=true)
-
 ### 🟩 Mi Actividad en GitHub
 
 ![Contribuciones en GitHub](https://ghchart.rshah.org/SebalujanP)
