@@ -1,7 +1,6 @@
 # Hola, soy Sebastián Luján 👋
 
-Desarrollador Python especializado en **Machine Learning**, **análisis de datos** y **automatización con IA**.
-Estudiante de Licenciatura en Ciencia de Datos e IA — construyo proyectos reales mientras aprendo.
+Desarrollador Python especializado en **SQL, análisis de datos** y **Machine Learning**. Estudiante de Licenciatura en Ciencia de Datos e IA — construyo proyectos reales mientras aprendo.
 
 ---
 
@@ -46,6 +45,7 @@ languages  = ["Python", "SQL", "Bash"]
 ml         = ["TensorFlow", "Keras", "scikit-learn", "pandas", "NumPy"]
 nlp        = ["NLTK", "CountVectorizer", "TF-IDF", "Transformers"]
 tools      = ["Git", "Jupyter", "VS Code", "Gradio", "Google Colab"]
+data      = ["SQL", "PostgreSQL", "Power BI", "DAX"]
 ```
 
 ---
