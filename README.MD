@@ -55,3 +55,7 @@ Pipeline completo de procesamiento de lenguaje natural: tokenización, stopwords
 ## 📈 Estadísticas
 
 ![Stats de GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=SebalujanP&show_icons=true)
+
+### 🟩 Mi Actividad en GitHub
+
+![Contribuciones en GitHub](https://ghchart.rshah.org/SebalujanP)
